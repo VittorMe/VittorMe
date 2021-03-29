@@ -8,7 +8,7 @@
 ### ℹ️ Sobre mim / About me
 Olá meu nome é Vittor Melo, Graduando em Sistemas de Infromação, aventureiro em WEB e apaixonado por tecnologia. 
 </br>
-Hi, i'm AVittor Melo, Graduating in Information Systems, adventurer in WEB and passionate about technology.
+Hi, i'm Vittor Melo, Graduating in Information Systems, adventurer in WEB and passionate about technology.
 
 ### 🛠 Conhecimentos / Knowledges
 
