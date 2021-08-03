@@ -28,3 +28,6 @@ Hi, i'm Vittor Melo, Graduating in Information Systems, adventurer in WEB and pa
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 
+
+![Wladigley Status](https://github-readme-stats.vercel.app/api?username=wladigley&show_icons=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wladigley&layout=compact)
