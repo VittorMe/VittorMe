@@ -22,7 +22,7 @@ Hi, i'm Vittor Melo, Graduating in Information Systems, adventurer in WEB and pa
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![CSharp](https://img.shields.io/badge/-C%20Sharp-563D7C?style=flat-square&logo=csharp&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+[![CSharp](https://img.shields.io/-Angula-e80317?style=flat-square&logo=angular&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 
