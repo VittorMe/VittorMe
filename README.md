@@ -10,9 +10,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vittordemelo@gmail.com)](mailto:vittordemelo@gmail.com)
 
 ### ℹ️ Sobre mim / About me
-Olá meu nome é Vittor Melo, Graduando em Sistemas de Infromação, aventureiro em WEB e apaixonado por tecnologia. 
+Olá meu nome é Vittor Melo, Graduando em Sistemas de Infromação, programador full stack e apaixonado por tecnologia. 
 </br>
-Hi, i'm Vittor Melo, Graduating in Information Systems, adventurer in WEB and passionate about technology.
+Hi, i'm Vittor Melo, Graduating in Information Systems, full stack programmer and passionate about technology.
 
 ### 🛠 Conhecimentos / Knowledges
 
@@ -21,14 +21,16 @@ Hi, i'm Vittor Melo, Graduating in Information Systems, adventurer in WEB and pa
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![CSharp](https://img.shields.io/-Angula-e80317?style=flat-square&logo=angular&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+[![Angular](https://img.shields.io/badge/-Angular-e80317?style=flat-square&logo=Angular&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+[![CSharp](https://img.shields.io/badge/-C%20Sharp-563D7C?style=flat-square&logo=csharp&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+[![CSharp](https://img.shields.io/badge/-.NET-563D7C?style=flat-square&logo=dotnet&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+
+[![MongoDB](https://img.shields.io/badge/-SQL%20Server-181717?style=flat-square&logo=microsoft-sql-server&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+[![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
