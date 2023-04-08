@@ -1,4 +1,4 @@
-![Vittor Status](https://github-readme-stats.vercel.app/api?username=VittorMe&show_icons=true)
+![Vittor Status](https://github-readme-stats.vercel.app/api?username=VittorMe&show_icons=true&theme=dark)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VittorMe&layout=compact)
 
 
