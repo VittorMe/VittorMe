@@ -51,7 +51,7 @@
 - Financeiro  
 - Jurídico  
 - Automação comercial (PDV)  
-- Integração com APIs governamentais (**NFC-e / CF-e / NFe / Pix**)  
+- Integração com APIs governamentais (**NFC-e / CF-e / MDF-e / NFe / Pix**)  
 - Gateways de pagamento e serviços de crédito  
 
 ---
