@@ -1,50 +1,88 @@
-![Vittor Status](https://github-readme-stats.vercel.app/api?username=VittorMe&show_icons=true&theme=dark)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VittorMe&layout=compact&theme=dark)
+<h1 align="center">👋 Olá, eu sou o Vittor Melo</h1>
+<h3 align="center">Desenvolvedor .NET | Web | Sistemas Corporativos</h3>
 
+---
 
-### 📲 Contact me
+## 📊 GitHub Stats
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999521417&text=Olá!)](https://api.whatsapp.com/send?phone=5585999521417&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/VittorMe)](https://t.me/VittorMe)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vittordemelo@gmail.com)](mailto:vittordemelo@gmail.com)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VittorMe&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittorMe&layout=compact&theme=dark" />
+</p>
 
-### ℹ️ Sobre mim / About me
-Olá meu nome é Vittor Melo, Graduando em Sistemas de Informação pela Universidade Federal do Ceará, com sólida experiência em desenvolvimento e manutenção de aplicações web, desde a concepção de funcionalidades até a entrega e sustentação em ambiente de produção.
+---
 
-Atuação em times ágeis (SCRUM) em ambientes colaborativos, participando ativamente de reuniões de alinhamento, levantamento de requisitos, análise de viabilidade, desenvolvimento de novas funcionalidades, manutenção corretiva e preventiva, além de integrações com APIs e serviços externos.
+## 📲 Contact me
 
-Focado em qualidade de código, boas práticas, princípios SOLID, Clean Code e padrões de arquitetura, sempre buscando aprimorar sistemas através de soluções escaláveis, seguras e de fácil manutenção.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vittor-melo-3258b313a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5585999521417&text=Olá!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/VittorMe">
+    <img src="https://img.shields.io/badge/Telegram-1CA0F1?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:vittordemelo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Experiência com diversas tecnologias do ecossistema .NET, incluindo C#, ASP.NET MVC, Web Forms, Entity Framework, Dapper, SQL Server, além de atuação com tecnologias frontend como JavaScript (JQuery), React, Angular, Node.Js e Bootstrap.
+---
 
-Vivência no desenvolvimento de sistemas financeiros, jurídicos, de automação comercial (PDV) e integração com serviços de terceiros como gateways de pagamento, serviços de crédito e APIs governamentais (NFC-e / CF-e / NFe / Pix).
-</br>
-Hi, i'm Vittor Melo, Graduating in Information Systems from the Federal University of Ceará, with solid experience in the development and maintenance of web applications, from the conception of functionalities to delivery and support in a production environment.
+## ℹ️ Sobre mim | About me
 
-Experience in agile teams (SCRUM) in collaborative environments, actively participating in alignment meetings, requirements gathering, feasibility analysis, development of new functionalities, corrective and preventive maintenance, as well as integrations with APIs and external services.
+🎓 **Graduando em Sistemas de Informação** pela Universidade Federal do Ceará (UFC), com sólida experiência no **desenvolvimento e manutenção de aplicações web**, atuando desde a concepção de funcionalidades até a entrega e sustentação em produção.
 
-Focused on code quality, best practices, SOLID principles, Clean Code and architectural patterns, always seeking to improve systems through scalable, secure and easily maintainable solutions.
+💼 Experiência em **times ágeis (SCRUM)**, participando ativamente de:
+- Levantamento e análise de requisitos  
+- Desenvolvimento de novas funcionalidades  
+- Manutenção corretiva e preventiva  
+- Integrações com APIs e serviços externos  
 
-Experience with various technologies of the .NET ecosystem, including C#, ASP.NET MVC, Web Forms, Entity Framework, Dapper, SQL Server, as well as experience with frontend technologies such as JavaScript (JQuery), React, Angular, Node.js and Bootstrap.
+🧠 Forte foco em **qualidade de código**, aplicando:
+- SOLID  
+- Clean Code  
+- Padrões de arquitetura  
+- Soluções escaláveis, seguras e de fácil manutenção  
 
-Experience in developing financial, legal, and point-of-sale (POS) automation systems, and integrating them with third-party services such as payment gateways, credit services, and government APIs (NFC-e / CF-e / NFe / Pix).
+🚀 Atuação em projetos dos segmentos:
+- Financeiro  
+- Jurídico  
+- Automação comercial (PDV)  
+- Integração com APIs governamentais (**NFC-e / CF-e / NFe / Pix**)  
+- Gateways de pagamento e serviços de crédito  
 
-### 🛠 Conhecimentos / Knowledges
+---
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript%20-%23323330.svg?style=flat-squar&logo=javascript&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![HTML5](https://img.shields.io/badge/HTML5%20-%23323330.svg?style=flat&logo=html5&logoColor=%f14e32&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![CSS3](https://img.shields.io/badge/-CSS3%20-%23323330.svg?style=flat&logo=css3&logoColor=blue&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23323330.svg?style=flat&logo=bootstrap&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![Angular](https://img.shields.io/badge/Angular%20-%23323330.svg?style=flat&logo=Angular&logoColor=e80317&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![CSharp](https://img.shields.io/badge/C%20Sharp%20-%23323330.svg?style=flat&logo=csharp&logoColor=9400d3&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![CSharp](https://img.shields.io/badge/.NET%20-%23323330.svg?style=flat&logo=dotnet&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![React](https://img.shields.io/badge/React%20-%23323330.svg?&style=flat&logo=react&logoColor=adafb&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+## 🛠️ Tecnologias & Conhecimentos
 
-[![MongoDB](https://img.shields.io/badge/SQL%20Server%20-%23323330.svg?style=flat&logo=microsoft-sql-server&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23323330.svg?style=flat&logo=postgresql&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![MySQL](https://img.shields.io/badge/MySQL%20-%23323330.svg?style=flat&logo=mysql&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+### 💻 Backend & Frontend
+<p>
+  <img src="https://img.shields.io/badge/C%23-323330?style=flat&logo=csharp&logoColor=9400D3"/>
+  <img src="https://img.shields.io/badge/.NET-323330?style=flat&logo=dotnet"/>
+  <img src="https://img.shields.io/badge/ASP.NET-323330?style=flat&logo=dotnet"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-323330?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Angular-323330?style=flat&logo=angular&logoColor=E80317"/>
+  <img src="https://img.shields.io/badge/Bootstrap-323330?style=flat&logo=bootstrap"/>
+</p>
 
-[![Git](https://img.shields.io/badge/Git%20-%23323330.svg?style=flat&logo=git&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23323330.svg?style=flat&logo=github&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
-[![GitLab](https://img.shields.io/badge/GitLab%20-%23323330.svg?style=flat&logo=gitlab&link=https://www.linkedin.com/in/vittor-melo-3258b313a/)](https://www.linkedin.com/in/vittor-melo-3258b313a/)
+### 🗄️ Bancos de Dados
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-323330?style=flat&logo=microsoft-sql-server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-323330?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-323330?style=flat&logo=mysql"/>
+</p>
+
+### 🔧 Ferramentas & Versionamento
+<p>
+  <img src="https://img.shields.io/badge/Git-323330?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-323330?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/GitLab-323330?style=flat&logo=gitlab"/>
+</p>
+
+---
+
+⭐ _Sempre em busca de evolução técnica, boas práticas e soluções eficientes._
